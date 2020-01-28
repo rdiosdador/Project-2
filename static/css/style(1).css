@@ -1,0 +1,32 @@
+body {
+    margin: 30px;
+    background-image: url("cool-background.png");
+}
+
+#map_col {
+    /* border: 3px solid; */
+    height: 600px;
+    width: 300px;
+}
+
+#wordcloud_row {
+    /* border: 3px solid; */
+    height: 600px;
+}
+
+#plot_col {
+    /* border: 3px solid; */
+    height: 600px;
+}
+
+#mapid {
+    height: 450px;
+    width: 540px;
+    position: relative;
+}
+
+#wordcloud_img {
+    height: 450px;
+    width: 540px;
+    position: relative;
+}
